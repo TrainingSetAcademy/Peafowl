@@ -47,6 +47,8 @@
  Peafowl ->  04 Monitoring ->  WinSpy x64
  Peafowl ->  05 Packing ->  upx-3.96-win32 
  Peafowl ->  05 Packing ->  upx-3.96-win64 
+ Peafowl ->  06 unPacking ->  upx-3.96-win32 
+ Peafowl ->  06 unPacking ->  upx-3.96-win64 
  Peafowl ->  07 PE Editing ->  LordPE 
  Peafowl ->  07 PE Editing ->  PE Editor
  Peafowl ->  07 PE Editing ->  PE Generator
