@@ -17,7 +17,9 @@
 ```
 # Requirements
  ```sh
- some tools need JVM and dotnet.
+ * Windows 7/8/10
+ * some tools need JVM and dotnet.
+ 
  ```
 
 # Included Tools
