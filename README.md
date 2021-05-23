@@ -1,6 +1,9 @@
 # Peafowl
 ![info](https://raw.githubusercontent.com/TrainingSetAcademy/Peafowl/main/Logo.png)
 
+<p align="center">
+  <img width="600" height="200" src="https://raw.githubusercontent.com/TrainingSetAcademy/Peafowl/main/Logo.png">
+</p>
 
 ![info](https://raw.githubusercontent.com/TrainingSetAcademy/Peafowl/main/image_1.png)
 
