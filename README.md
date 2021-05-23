@@ -92,5 +92,5 @@
 
 # Connection
   ```
-  https://twitter.com/TSetAcademy
+  Twitter : https://twitter.com/TSetAcademy
   ```
