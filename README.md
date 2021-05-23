@@ -9,7 +9,7 @@
 
 # Description
 ```
-  Peafowl is a Collection of Malware Anlaysis and Reverse Engineering tools, 
+  Peafowl is a Collection of open source Malware Anlaysis and Reverse Engineering tools, 
   integrated into Windows ContextMenu using kuShellExtension Tool.
 ```
 
