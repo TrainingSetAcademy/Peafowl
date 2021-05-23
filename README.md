@@ -18,6 +18,7 @@
 1 - Donwload Peafowl.zip
 2 - unzip to a Folder.
 3 - run 'install.cmd' file.
+4 - reboot the system.
 
 ```
 # Requirements
