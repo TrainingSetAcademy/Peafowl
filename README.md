@@ -1,4 +1,4 @@
-# Peafowl
+# Peafowl v0.1
 <p align="center">
   <img src="https://raw.githubusercontent.com/TrainingSetAcademy/Peafowl/main/Logo.png">
 </p>
@@ -7,6 +7,10 @@
   <img src="https://raw.githubusercontent.com/TrainingSetAcademy/Peafowl/main/image_1.png">
 </p>
 
+# Description
+```
+  Peafowl is a Collection of Malware Anlaysis and Reverse Engineering tools, integrated into Windows ContextMenu using kuShellExtension Tool.
+```
 
 # Setup 
 ```sh
