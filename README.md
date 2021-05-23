@@ -1,13 +1,12 @@
 # Peafowl
-![info](https://raw.githubusercontent.com/TrainingSetAcademy/Peafowl/main/Logo.png)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/TrainingSetAcademy/Peafowl/main/Logo.png">
 </p>
 
-![info](https://raw.githubusercontent.com/TrainingSetAcademy/Peafowl/main/image_1.png)
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TrainingSetAcademy/Peafowl/main/image_1.png">
+</p>
 
 # Setup 
 ```sh
