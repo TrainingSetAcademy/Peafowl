@@ -97,7 +97,6 @@
  Peafowl ->  12 Misc ->  ASCII_Pic2 
  Peafowl ->  12 Misc ->  base64
  Peafowl ->  12 Misc ->  disasmdump
- Peafowl ->  12 Misc ->  gethttp
  Peafowl ->  12 Misc ->  tagtreeviewer
  Peafowl ->  12 Misc ->  img_to_ascii 
 ```
