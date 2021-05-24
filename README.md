@@ -1,6 +1,6 @@
 # Peafowl v0.1
 <p align="center">
-  <img src="https://media.githubusercontent.com/TrainingSetAcademy/Peafowl/main/Logo.png">
+  <img src="https://media.githubusercontent.com/media/TrainingSetAcademy/Peafowl/main/Logo.png">
 </p>
 
 <p align="center">
