@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.githubusercontent.com/TrainingSetAcademy/Peafowl/main/image_1.png">
+  <img src="https://media.githubusercontent.com/media/TrainingSetAcademy/Peafowl/main/image_1.png">
 </p>
 
 # Description
