@@ -1,13 +1,13 @@
 <!--ResEdit configuration file-->
 <config>
     <recentFiles>
-        <recentFile path="C:\Users\m0az\Desktop\hiew32demo - Copy.exe" />
+        <recentFile path="" />
     </recentFiles>
     <language>English</language>
     <singleTabMode value="false" />
     <wizard value="true" />
     <createProjectFolder value="true" />
-    <defaultProjectPath value="C:\Users\m0az\ResEdit Projects\" />
+    <defaultProjectPath value="" />
     <headerName></headerName>
     <includes />
     <display>
