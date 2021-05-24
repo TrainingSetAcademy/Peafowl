@@ -34,7 +34,7 @@ echo @echo off>%temp%\Uninstall.cmd
 echo color c>>"%temp%\Uninstall.cmd"
 echo cls>>"%temp%\Uninstall.cmd"
 echo echo ------------------------------------------------------------------------>>"%temp%\Uninstall.cmd"
-echo echo                 UNINSTALLING TRAINING SET ACADEMY >>"%temp%\Uninstall.cmd"
+echo echo                 UNINSTALLING PEAFOWL >>"%temp%\Uninstall.cmd"
 echo echo ------------------------------------------------------------------------>>"%temp%\Uninstall.cmd"
 
 if "%PROCESSOR_ARCHITECTURE%"=="AMD64" (
