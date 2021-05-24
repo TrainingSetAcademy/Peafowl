@@ -1,0 +1,49 @@
+------------------------------
+ASCII Generator HTML Templates
+------------------------------
+
+The ASCII Generator supports the automatic creation of html files through the use of templates.  These are html files containing a tag that the program replaces with the ASCII picture, a system defined value, or a user-defined value.  Just create a html page like you normally would, then add one of the following tags in the place you want that item to appear.  See the file 'Example Template.html' for a very basic example.
+
+The html tags are in the format:
+ <ASCGEN tag-name>
+
+Where the tag can be one of the following:
+
+ <ASCGEN title>
+ <ASCGEN name>
+ <ASCGEN email>
+ <ASCGEN link1>
+ <ASCGEN link2>
+ <ASCGEN link3>
+ <ASCGEN var1>
+ <ASCGEN var2>
+ <ASCGEN var3>
+ <ASCGEN var4>
+ <ASCGEN var5>
+
+ <ASCGEN picture>		The text picture currently in the richedit
+ <ASCGEN ascgen-home>		Address of the ASCGEN home page
+ <ASCGEN text-col>		Text colour in hexadecimal format (eg. #FFFFFF)
+ <ASCGEN background-col>	Background colour in hexadecimal format (eg. #000000)
+ <ASCGEN day>			Number representing the current day of the month
+ <ASCGEN day-of-week>		Current day of the week
+ <ASCGEN short-day-of-week>	Current day of the week in three characters
+ <ASCGEN month>			Number from 1-12 representing the current month
+ <ASCGEN month-string>		Name of the current month
+ <ASCGEN short-month-string>	Three character name of the current month
+ <ASCGEN year>			Current year
+ <ASCGEN short-year>		Last two digits of current year
+ <ASCGEN ddmmyy>		Current system date in dd/mm/yy format
+ <ASCGEN ddmmyyyy>		Current system date in dd/mm/yyyy format
+ <ASCGEN mmddyy>		Current system date in mm/dd/yy format
+ <ASCGEN mmddyyyy>		Current system date in mm/dd/yyyy format
+
+
+Notes:
+ - The eleven tags in the top section are all user definable and the names given are just suggestions.  All of those tags, except the title, are stored to the registry.
+
+ - Case is not important.
+
+ - The tag must not span more than one line or it will be ignored.
+
+ - Let me know if there are any extra tags that you think should be supported.
