@@ -14,7 +14,7 @@
 ```
 
 # Setup 
-```sh
+```
 1 - Donwload Peafowl folder as ZIP File.
 2 - unzip to a Folder in any directory.
 3 - run 'install.cmd' file.
