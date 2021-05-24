@@ -32,6 +32,7 @@
 # Included Tools
 ```
  Peafowl ->  00 Anlayzing ->  die_win64_portable
+ Peafowl ->  00 Anlayzing ->  ExifTool
  Peafowl ->  00 Anlayzing ->  FastScanner3
  Peafowl ->  00 Anlayzing ->  PEiD 
  Peafowl ->  00 Anlayzing ->  pelook
@@ -50,6 +51,7 @@
  Peafowl ->  03 HexEditing ->  wxHexEditor
  Peafowl ->  04 Monitoring ->  API Monitor x64
  Peafowl ->  04 Monitoring ->  API Monitor x86
+ Peafowl ->  04 Monitoring ->  RegShot x64
  Peafowl ->  04 Monitoring ->  WinSpy x86
  Peafowl ->  04 Monitoring ->  WinSpy x64
  Peafowl ->  05 Packing ->  upx-3.96-win32 
